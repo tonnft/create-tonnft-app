@@ -12,14 +12,16 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Mintbase Engineering</title>
+        <title>TON NFT</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       {/* <Navbar /> */}
       <Hero />
+<!--
       {/* <Products storeId="wildeverse.mintbase1.near" /> */}
       {/* <Products storeId="hellovirtualworld.mintbase1.near" /> */}
+-->
       <MusicPlayer />
       <Minter />
       <Footer />
