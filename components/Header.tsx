@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container mx-auto max-w-8xl md:flex justify-between items-center">
         <Link href="/" passHref>
           <a className="py-6 w-full text-center md:text-left md:w-auto text-gray-600 no-underline flex justify-center items-center">
-            Mintbase Engineering
+            TON NFT
           </a>
         </Link>
 
