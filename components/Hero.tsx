@@ -25,7 +25,7 @@ const Hero = () => {
           </p>
 
           <a
-            href="https://mintbase.io/developers"
+            href="https://tonnft.any.surf/developers"
             className="mt-6 inline-block bg-white text-black no-underline px-4 py-3 hover:shadow-2xl"
           >
             Learn how
